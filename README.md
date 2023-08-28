@@ -1,2 +1,2 @@
 # chat-with-pdf
-chat with you pdfs by asking questions using hugging face llms, faiss vector store
+chat with you pdfs powered by hugging face llms, faiss vector store etc
